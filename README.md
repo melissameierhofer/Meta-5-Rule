@@ -5,4 +5,4 @@ Meierhofer M., et al. Re-weighing the 5% tagging recommendation: assessing the p
 
 Data is also deposited in zenodo
 
-Please see the Database Guidance to understand how data were collected from publications.
+Please see the Database Guidance to understand how data were collected from publications. Please also see the README file to understand any nuances with the data.
